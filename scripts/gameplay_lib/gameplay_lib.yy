@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"gameplay_lib",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gameplay_lib",
+  "parent":{
+    "name":"Libraries",
+    "path":"folders/Game/Libraries.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

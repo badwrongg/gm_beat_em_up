@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"collisions_lib",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"collisions_lib",
+  "parent":{
+    "name":"Libraries",
+    "path":"folders/_System/Libraries.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

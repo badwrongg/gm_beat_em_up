@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"character_lib",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"character_lib",
+  "parent":{
+    "name":"_core",
+    "path":"folders/Characters/_core.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

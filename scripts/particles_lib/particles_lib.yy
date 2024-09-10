@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"particles_lib",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"particles_lib",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

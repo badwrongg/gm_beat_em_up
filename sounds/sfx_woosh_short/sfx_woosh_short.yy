@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_woosh_short",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.089979,
+  "name":"sfx_woosh_short",
+  "parent":{
+    "name":"Sound Effects",
+    "path":"folders/Audio/Sound Effects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_woosh_short.wav",
+  "type":1,
+  "volume":1.0,
+}

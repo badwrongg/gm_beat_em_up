@@ -1,0 +1,1 @@
+update_game_speeds(frame_speed, anim_speed);
